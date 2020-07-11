@@ -39,4 +39,5 @@ To run the code below, please download the processed data from the drive
 1. Activation_Visualization: This notebook loads the weights for Parallel CNN-RNN model and uses the keras_vis package to draw activation visualizations for the filters in convolution block 1 and convolution block 5
 
 2. Embedding_Clustering_CRNN: This notebook extracts the features from the first dense layer of CRNN model and performs clustering on them. It then compares the outputs of the clustering with the true labels
-
+### CREDITS
+https://github.com/priya-dwivedi/Music_Genre_Classification
